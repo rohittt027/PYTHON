@@ -13,7 +13,7 @@ print("output:", first_number <= second_number)      # True
 
 
 
-# TAKES TWO NUMBERS AS INPUT AND COMPARES THEM USING ALL COMPARISON OPERATORS
+# TAKES TWO NUMBERS AS INPUT AND COMPARES THEM USING ALL COMPARISON OPERATORS .
 
 first_number = int(input("Enter first number: "))
 second_number = int(input("Enter second number: "))
