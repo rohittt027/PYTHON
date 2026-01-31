@@ -10,12 +10,10 @@ x-=y
 x/=y
 x%=y
 
-
 print("The value of x is : ",x+y)
 print("The value of x is : ",x-y)
 print("The value of x is : ",x/y)
 print("The value of x is : ",x%y)
-print("The value of x is : ",x**y)
 
 
 
