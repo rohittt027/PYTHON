@@ -12,19 +12,19 @@ elif(light == "yellow"):
 
 # ---------------------------------------------------------------------------------------------------
 
-# num = 5
+num = 5
 
-# if(num > 2):
-#     print("greater than 2")
-# if(num > 3):
-#     print("greater than 3")
+if(num > 2):
+    print("greater than 2")
+if(num > 3):
+    print("greater than 3")
 
 # ---------------------------------------------------------------------------------------------------
 
 
-# num = 5
+num = 5
 
-# if(num > 2):
-#     print("greater than 2")
-# elif(num > 3):
-#     print("greater than 3")
+if(num > 2):
+    print("greater than 2")
+elif(num > 3):
+    print("greater than 3")
